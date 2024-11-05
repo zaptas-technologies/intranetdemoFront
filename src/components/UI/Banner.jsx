@@ -35,7 +35,7 @@ export default function Banner() {
         {/* Slide 1 */}
         <div className="carousel-item active">
           <img
-            src="banner1.jpg"
+            src="/intranetdemoFront/banner1.jpg"
             className="d-block w-100"
             alt="Banner 1"
           />
@@ -48,7 +48,7 @@ export default function Banner() {
         {/* Slide 2 */}
         <div className="carousel-item">
           <img
-            src="banner2.jpg"
+            src="/intranetdemoFront/banner2.jpg"
             className="d-block w-100"
             alt="Banner 2"
           />
@@ -61,7 +61,7 @@ export default function Banner() {
         {/* Slide 3 */}
         <div className="carousel-item">
           <img
-            src="banner3.jpg"
+            src="/intranetdemoFront/banner3.jpg"
             className="d-block w-100"
             alt="Banner 3"
           />
@@ -73,7 +73,7 @@ export default function Banner() {
         {/* Slide 4 */}
         <div className="carousel-item">
           <img
-            src="banner4.jpg"
+            src="/intranetdemoFront/banner4.jpg"
             className="d-block w-100"
             alt="Banner 4"
           />
