@@ -1,0 +1,19 @@
+.mgt-card::before {
+    content: "";
+    background: #505050;
+    height: 80px;
+    width: 100%;
+    position: absolute;
+    left: 0;
+    z-index: 0;
+}
+
+.card-content {
+    position: relative;
+    z-index: 1;
+    padding-top: 95px;
+}
+
+.content-section {
+    padding-left: 12px;
+}

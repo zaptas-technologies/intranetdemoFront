@@ -1,0 +1,11 @@
+.react-calendar {
+    width: 100%;
+    border: none;
+}
+
+.react-calendar__tile--active {
+    background: #007bff;
+    /* Change active date background color */
+    color: white;
+    border-radius: 5px;
+}

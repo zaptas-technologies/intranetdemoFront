@@ -1,0 +1,27 @@
+.bg-light {
+    padding: 12px;
+    background-color: #fff !important;
+}
+
+.nav-link {
+    color: #000;
+}
+
+.navbar-icon {
+    font-size: 1.5rem;
+}
+
+ul.navbar-nav li.nav-item {
+    margin: 0 10px;
+}
+
+.search-form input.form-control {
+    border-top-right-radius: 0;
+    border-bottom-right-radius: 0;
+    background-color: #d9d9d9;
+}
+
+.search-form button {
+    border-top-left-radius: 0;
+    border-bottom-left-radius: 0;
+}

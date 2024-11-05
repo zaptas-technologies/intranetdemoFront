@@ -1,0 +1,31 @@
+.date-badge-container {
+    border-radius: 15px;
+    margin-bottom: 10px;
+    border: 1px solid #000000;
+    min-width: 90px;
+    text-align: center;
+    box-shadow: 0 5px 10px 0px rgba(0, 0, 0, 0.35);
+    background-color: #cac6c6;
+}
+
+.date-badge {
+    color: black;
+    border-bottom: 1px solid;
+    padding: 8px 0px;
+}
+
+span.date {
+    display: block;
+    text-align: center;
+    padding: 8px 0;
+}
+
+.announcement-disc {
+    padding-left: 12px;
+    font-size: 17px;
+}
+
+.announcement-disc p {
+    margin-bottom: 0;
+    font-weight: 600;
+}
